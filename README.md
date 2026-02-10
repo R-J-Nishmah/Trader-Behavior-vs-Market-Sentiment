@@ -1,6 +1,8 @@
 # Trader-Behavior-vs-Market-Sentiment
 Data science analysis of trader behavior against Bitcoin market sentiment (Fear vs Greed), including EDA, behavioral segmentation, predictive modeling, and actionable trading insights using real Hyperliquid trading data.
 
+The colab file: https://colab.research.google.com/drive/1SoIcHJmMhEDESq-P_dfpKL6yhYH1Kcal?usp=sharing
+
 Setup Instructions
 1️⃣ Environment
 
